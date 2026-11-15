@@ -38,7 +38,16 @@ no third-party model.
 - `melt_gistemp.py` — wide table → long monthly series
 - `sonify_mopitt.py` — the sonification script (standard library only)
 - `build_page.py` — regenerates `index.html` from the CSVs
+- `slides.html` — the 6-slide demo deck (chart + audio player)
+- `build_slides.py` — regenerates `slides.html` from the CSVs
 - `texte-soumission-gistemp-2026-11-15.md` — the submission text (in French notes + English text)
+
+## AI assistance (Super Intelligence disclosure)
+
+The code and the submission text were written with the assistance of an AI
+coding assistant (Muse). The audio and the chart are computed
+deterministically from the NASA data, not AI-generated. No AI-generated
+images, video or music are used.
 
 ## Honest limits
 
